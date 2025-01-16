@@ -8,7 +8,7 @@ function capturarNombre() {
 }
 
 function agregarAmigo() {
-    if (capturarNombre() == '') {
+    if (capturarNombre() === '') {
         alert("Por favor, inserte un nombre");
     } else {
         amigos.push(capturarNombre());
