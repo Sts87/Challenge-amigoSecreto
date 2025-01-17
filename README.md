@@ -1,2 +1,2 @@
-<em> # Amigo Secreto </em>
+# Amigo Secreto
 
