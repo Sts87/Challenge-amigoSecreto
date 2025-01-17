@@ -33,6 +33,16 @@ Aplicación divertida para realizar el sorteo de un **amigo secreto**. Los usuar
     Haz clic en "Sortear amigo" para realizar el sorteo. <br>
     ¡Descubre quién es el amigo secreto!
 
+---
+
 ## 🌟 Captura de pantalla
 
+![amigo secreto](https://github.com/user-attachments/assets/5f4ee1ea-3a32-4d4c-a3d7-24bd78776ab7)
+
+---
+
+## 👩‍💻 Autor
+
+|[<img src="https://avatars.githubusercontent.com/u/134673338?v=4" width=100><br><sub>Sts87</sub>](https://github.com/Sts87)|
+| :---: |
 
